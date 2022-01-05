@@ -2247,8 +2247,9 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-color: #535857;
+				background-image: url("../../images/IMG_4245.jpg");
+				background-blend-mode: overlay;
 			}
 
 			#main > section.two {
